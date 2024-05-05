@@ -47,8 +47,11 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/Bosevennila/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/144870486/3e4554b7-1d9a-4702-89e1-5c54876cb263)
+
+
+### Name: CHANDRAPRIYADHARSHINI C
+### Register Number: 212223240019
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
